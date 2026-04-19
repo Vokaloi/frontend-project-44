@@ -10,7 +10,6 @@ export const runGame = (gameDescription, generateRound) => {
 
   for (let i = 0; i < roundsToWin; i++) {
     const { question, correctAnswer } = generateRound()
-    
     console.log(`Question: ${question}`)
     const userAnswer = readlineSync.question('Your answer: ')
 
