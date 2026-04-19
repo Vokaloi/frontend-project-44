@@ -5,3 +5,5 @@
 [![asciicast](https://asciinema.org/a/Q4PHXopM2NLtatNj.svg)](https://asciinema.org/a/Q4PHXopM2NLtatNj)
 ## Демонстрация игры "Калькулятор"
 [![asciicast](https://asciinema.org/a/E2iACg23H4RzrPSz.svg)](https://asciinema.org/a/E2iACg23H4RzrPSz)
+## Демонстрация игры "Наибольший общий делитель (НОД)"
+[![asciicast](https://asciinema.org/a/JOgiscmtrd0YUgIe.svg)](https://asciinema.org/a/JOgiscmtrd0YUgIe)
